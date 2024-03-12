@@ -1,6 +1,6 @@
 {  
   "version": "1.10.30",
   "versionCode": 11030
-  "zipUrl": "http://client-updater.sothx.com/mipad-magic-window/update-server/1.07.18.zip",
+  "zipUrl": "https://github.com/sothx/mipad-magic-window/releases/download/1.10.30/pad-1.10.30.zip",
   "changelog": "https://github.com/Mnvkyer/mipad-magic-window/blob/6375724634db95e438cffbe2543929e3567be785/README.md"
 }
